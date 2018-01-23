@@ -1,21 +1,21 @@
 {
-  "name": "meadowlarktravel",
+  "name": "express_minmin",
   "version": "0.0.0",
-  "description": "Sample website for Web Development with Node and Express (O'Reilly).",
+  "description": "express_minmin_study",
   "main": "meadowlark.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/EthanRBrown/web-development-with-node-and-express.git"
+    "url": "https://github.com/46234907/ch04.git"
   },
-  "author": "Ethan Brown <e@zepln.com>",
+  "author": "Ethan Brown ",
   "license": "GPL, MIT",
   "bugs": {
-    "url": "https://github.com/EthanRBrown/web-development-with-node-and-express/issues"
+    "url": "https://github.com/46234907/ch04/issues"
   },
-  "homepage": "https://github.com/EthanRBrown/web-development-with-node-and-express",
+  "homepage": "https://github.com/46234907/ch04",
   "dependencies": {
     "express": "~4.4.2",
     "express3-handlebars": "~0.5.0"
